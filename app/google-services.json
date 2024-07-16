@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380377960371",
+    "project_id": "registration-and-login-babed",
+    "storage_bucket": "registration-and-login-babed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380377960371:android:4e8cdccb8e15ee331fc5c6",
+        "android_client_info": {
+          "package_name": "com.example.registrationandloginwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWJ8E5hji5Ui6-42qJlCZo8y9jub85Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
